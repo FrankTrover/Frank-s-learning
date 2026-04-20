@@ -182,6 +182,7 @@ static void App_ScanAd7616(void)
   g_peak_abs_code = peak;
 }
 //伏笔了这波，有点意思
+//大卫拉亚的示例有点东西
 
 
 
